@@ -1,2 +1,2 @@
 # PythonProject
-Small projects using python, such as Tictactoe game.
+Beberapa projek python untuk meningkatkan skill Python.
